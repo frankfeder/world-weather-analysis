@@ -1,5 +1,6 @@
 # Adding config.py file.
 config.py
+weather_database/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
